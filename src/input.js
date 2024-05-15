@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import Replicate from "replicate";
 
-const REPLICATE_API_TOKEN = "r8_FNF0RwCjkgelhXnjoeR1Rh7NivAp5jF3lMjFi";
-
 if (!REPLICATE_API_TOKEN) {
     console.error("REPLICATE_API_TOKEN is not set.");
     process.exit(1);
