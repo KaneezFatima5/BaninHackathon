@@ -1,3 +1,8 @@
+# BANIN HACKATHON
+
+## INTRODUCTION
+The hackathon was organized by lablab.ai. It was a three days hackathon. The challange was to create an image generating App with native language prompt. This web App takes the prompt in one of the local language of banin (Yoruba) and generates the image using generative AI.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
